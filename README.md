@@ -1,7 +1,7 @@
 ## Spis treści
 * [Ogólne informacje](#ogólne-informacje)
 * [Użyte technologie](#użyte-technologie)
-* [Prezentacja](#prezentacja)
+* [Prezentacja programu](#prezentacja-programu)
 
 ## Ogólne informacje
 Program wykorzystuje algorytmy na liniową i potęgową transformację obrazów oraz 16 różnych algorytmów mieszania dwóch obrazów ze sobą.
