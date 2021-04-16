@@ -160,7 +160,7 @@ namespace Image_Editor
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(62, 15);
             this.label1.TabIndex = 7;
-            this.label1.Text = "Brightness";
+            this.label1.Text = "";
             // 
             // pictureBox2
             // 
@@ -259,7 +259,7 @@ namespace Image_Editor
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(52, 15);
             this.label2.TabIndex = 18;
-            this.label2.Text = "Contrast";
+            this.label2.Text = "";
             // 
             // button11
             // 
